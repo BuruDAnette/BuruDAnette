@@ -23,11 +23,12 @@
 </div>
 
 
-<p align="left">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BuruDAnette&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=BuruDAnette&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
-          
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuruDAnette&layout=compact&langs_count=7&theme=graywhite"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BuruDAnette&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+</div>
+ 
 b.
 
 ![Snake animation](https://github.com/BuruDAnette/BuruDAnette/blob/output/github-contribution-grid-snake.svg)
