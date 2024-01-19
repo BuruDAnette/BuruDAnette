@@ -6,3 +6,6 @@
 <a href="https://www.linkedin.com/in/brunamoraiscarvalho/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
 
+<h2>Hi, I'm Rao Hai! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<p><em>Front-end Engineer at <a href="https://afi.team/team/">Alipay AFI</a> . </em>
