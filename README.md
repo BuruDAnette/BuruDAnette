@@ -7,5 +7,5 @@
 </p>
 
 <h2>Hi, I'm Rao Hai! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<p><em>Front-end Engineer at <a href="https://afi.team/team/">Alipay AFI</a> . </em>
+<img align='right' src="https://github.com/BuruDAnette/BuruDAnette/blob/main/video.gif" width="500" />
+<p><em>Computer Engineer Student at CEFET-MG</a> . </em>
