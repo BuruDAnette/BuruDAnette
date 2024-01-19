@@ -6,6 +6,6 @@
 <a href="https://www.linkedin.com/in/brunamoraiscarvalho/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
 
-<h2>Hi, I'm Rao Hai! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h2>Hi, I'm Bruna! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://github.com/BuruDAnette/BuruDAnette/blob/main/video.gif" width="500" />
 <p><em>Computer Engineer Student at CEFET-MG</a> . </em>
