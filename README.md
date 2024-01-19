@@ -23,5 +23,13 @@ Estou aprendendo:
 <a href="https://www.linkedin.com/in/brunamoraiscarvalho/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<div>
+<a href="https://github.com/BuruDAnette">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuruDAnette&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BuruDAnette&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+
 b.
+
+![Snake animation](https://github.com/BuruDAnette/BuruDAnette/blob/output/github-contribution-grid-snake.svg)
 
