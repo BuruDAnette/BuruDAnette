@@ -12,7 +12,7 @@
 ## Meu nome é Bruna!
 <div>
   <details>
-  <summary>🧑 More about me</summary>
+  <summary>Sobre mim</summary>
 
 - 🔭 Atualmente, Estudante de Engenharia da Computação com paixão por Arte, Escrita e Jogos. 🚀💻✒️🎨
 
