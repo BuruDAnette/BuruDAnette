@@ -31,5 +31,3 @@
  
 b.
 
-![Snake animation](https://github.com/BuruDAnette/BuruDAnette/blob/output/github-contribution-grid-snake.svg)
-
