@@ -6,28 +6,3 @@
 <a href="https://www.linkedin.com/in/brunamoraiscarvalho/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
 
-<br/>
-
-# 👋 Olá! Bem vinda(o) ao meu perfil Github.
-## Meu nome é Bruna!
-<div>
-  <details>
-  <summary>Sobre mim</summary>
-
-- 🔭 Atualmente, Estudante de Engenharia da Computação com paixão por Arte, Escrita e Jogos. 🚀💻✒️🎨
-
-- 🌱 Atualmente dedicada ao universo do Java
-
-- Estou aprendendo:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40" height="40"/>
-</details>     
-</div>
-
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuruDAnette&layout=compact&langs_count=7&theme=graywhite"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BuruDAnette&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-</div>
- 
-b.
-
