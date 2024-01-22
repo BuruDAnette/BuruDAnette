@@ -7,7 +7,7 @@
 </p>
 
 <h2>Hi, I'm Bruna! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
-<img align='right' src="https://github.com/BuruDAnette/BuruDAnette/blob/main/video.gif" width="500" />
+<img align='right' src="https://github.com/BuruDAnette/BuruDAnette/blob/main/missBruna.gif" width="500" />
 <p><em>Computer Engineer Student at CEFET-MG</a> . </em>
 
 - ✏️ Java | HTML | CSS | JavaScript
