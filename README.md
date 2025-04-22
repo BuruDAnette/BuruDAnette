@@ -3,7 +3,7 @@
   <a href="https://www.instagram.com/br.c.m.c/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.twitch.tv/smashedpowtato" target="_blank" style="text-decoration: none;">
+  <a href="https://www.twitch.tv/picoledmilho" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitch-ffc0cb?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   <a href="mailto:brunacastromorais@gmail.com" target="_blank" style="text-decoration: none;">
