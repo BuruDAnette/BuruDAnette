@@ -23,8 +23,8 @@
 
 <!-- Imagens -->
 <div align="center">
-  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/missBruna.gif" width="500" />
-  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/misterB.gif" width="500" />
+  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/missBruna.gif" width="300" />
+  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/misterB.gif" width="300" />
 </div>
 
 <br />
