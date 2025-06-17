@@ -1,16 +1,21 @@
-<!-- Redes Sociais -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=435&lines=Hello+World;I'm+Bruna!" alt="Typing SVG" />
+  </a>
+</h1>
+
 <div align="center">
-  <a href="https://www.instagram.com/br.c.m.c/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/br.c.m.c/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.twitch.tv/picoledmilho" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitch-ffc0cb?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  <a href="https://www.twitch.tv/picoledmilho" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-FF69B4?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
-  <a href="mailto:brunacastromorais@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:brunacastromorais@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/brunamoraiscarvalho/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/brunamoraiscarvalho/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
@@ -18,33 +23,27 @@
 
 <!-- Imagens -->
 <div align="center">
-  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/missBruna.gif" width="300" />
-  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/misterB.gif" width="300" />
+  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/missBruna.gif" width="500" />
+  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/misterB.gif" width="500" />
 </div>
 
 <br />
 
-<!-- Apresentação -->
-<h2 align="center">Hi, I'm Bruna! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<!-- Sobre Mim -->
+## 🌸 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,vscode,git,figma&theme=dark&perline=4" alt="Tech Stack"/>
+</p>
 
-<p align="center"><em>🎓 Computer Engineering Student at CEFET-MG</em></p>
-
-
-✏️ I'm into: **Java, HTML, CSS, JavaScript**
-<br/>
-🌱 Currently studying **Java**
-
-<p align="center">✨ Arts made by me ➡️</p>
-
-<!-- GitHub Stats e Contribuições -->
+## 🌺 GitHub Stats
 <div align="center">
+  
+[![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuruDAnette&show_icons=true&theme=radical&bg_color=45,ff69b4,9b59b6&title_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-  <!-- Total de contribuições -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BuruDAnette&show_icons=true&theme=default&bg_color=transparent&title_color=ff69b4&text_color=ff69b4&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuruDAnette&layout=compact&theme=default&bg_color=transparent&title_color=ff69b4&text_color=ff69b4&hide_border=true" alt="Top Languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuruDAnette&layout=compact&theme=radical&bg_color=45,ff69b4,9b59b6&title_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BuruDAnette&color=ff69b4&style=flat" alt="Profile views" />
+</p>
