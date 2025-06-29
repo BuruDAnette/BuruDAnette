@@ -38,9 +38,9 @@
 ## 🌺 GitHub Stats
 <div align="center">
   
-[![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuruDAnette&show_icons=true&theme=radical&bg_color=45,ff69b4,9b59b6&title_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuruDAnette&show_icons=true&theme=radical&bg_color=45,ff69b4,9b59b6&title_color=fff&text_color=fff&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuruDAnette&layout=compact&theme=radical&bg_color=45,ff69b4,9b59b6&title_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuruDAnette&layout=compact&theme=radical&bg_color=45,ff69b4,9b59b6&title_color=fff&text_color=fff&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
