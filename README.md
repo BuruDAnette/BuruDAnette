@@ -1,49 +1,38 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bee83f&height=150&section=header&text=&fontSize=60&fontColor=0d1117&animation=fadeIn" />
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=435&lines=Hello+World;I'm+Bruna!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=bee83f&center=true&vCenter=true&width=600&lines=🐸+Hi,+I'm+Bruna;🌱+Senior+at+Google+Search;🪰+My+bugs+are+also+growing;🌿+It+works+on+my+machine,+I+promise;🍃+Bye" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
-  <a href="https://www.instagram.com/br.c.m.c/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.twitch.tv/picoledmilho" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-FF69B4?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-  </a>
-  <a href="mailto:brunacastromorais@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brunamoraiscarvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.instagram.com/br.c.m.c/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bee83f?style=for-the-badge&logo=instagram&logoColor=000" /></a>
+  <a href="https://www.twitch.tv/picoledmilho" target="_blank"><img src="https://img.shields.io/badge/Twitch-bee83f?style=for-the-badge&logo=twitch&logoColor=000" /></a>
+  <a href="mailto:brunacastromorais@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-bee83f?style=for-the-badge&logo=gmail&logoColor=000" /></a>
+  <a href="https://www.linkedin.com/in/brunamoraiscarvalho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bee83f?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
 </div>
 
 <br />
-
-<!-- Imagens -->
-<div align="center">
-  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/missBruna.gif" width="300" />
-  <img src="https://github.com/BuruDAnette/BuruDAnette/blob/main/misterB.gif" width="300" />
-</div>
-
-<br />
-
-<!-- Sobre Mim -->
-## 🌸 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,vscode,git,figma&theme=dark&perline=4" alt="Tech Stack"/>
-</p>
-
-## 🌺 GitHub Stats
-<div align="center">
-  
-[![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuruDAnette&show_icons=true&theme=radical&bg_color=45,ff69b4,9b59b6&title_color=fff&text_color=fff&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuruDAnette&layout=compact&theme=radical&bg_color=45,ff69b4,9b59b6&title_color=fff&text_color=fff&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BuruDAnette&color=ff69b4&style=flat" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,python,php,laravel,html,css,scss,docker,vscode,git,figma&theme=dark" />
+</p>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuruDAnette&bg_color=0d1117&color=bee83f&line=bee83f&point=bee83f&area=true&hide_border=true&hide_title=true" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BuruDAnette&color=bee83f&style=for-the-badge&label=PEOPLE+STALKING+ME+📗" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bee83f&height=100&section=footer&flip=true" />
 </p>
