@@ -23,12 +23,6 @@
 
 <br />
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuruDAnette&bg_color=0d1117&color=bee83f&line=bee83f&point=bee83f&area=true&hide_border=true&hide_title=true" />
-</div>
-
-<br />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BuruDAnette&color=bee83f&style=for-the-badge&label=PEOPLE+STALKING+ME+📗" />
 </p>
